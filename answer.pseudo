@@ -1,0 +1,7 @@
+/*
+function takeName(name){
+     var num=Math.random() * (15 - 6) + 6;
+	var finalResult = name+" "+num;
+	return finalResult;
+} 
+*/
